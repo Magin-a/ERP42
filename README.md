@@ -37,7 +37,7 @@
 
 ### USB Camera
 This section will need to  ["ultralytics"](https://github.com/ultralytics/ultralytics) <br/>
-Pip or Git clone in your workspace
+Pip or Git clone install in your workspace
 ```bash
 pip3 install ultralytics
 ```
