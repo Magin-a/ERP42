@@ -45,9 +45,9 @@ pip3 install ultralytics
 git clone https://github.com/ultralytics/ultralytics.git
 ```
 <br/>
-1) CalledRaw_image <br/> 
+## 1) CalledRaw_image <br/> 
 ``roslaunch usb_cam usb_cam-test.launch`` <br/>
-2) Perception for Darknet <br/>
+## 2) Perception for Darknet <br/>
 ``roslaunch darknet_ros darknet_ros.launch``
 
 <br/>
