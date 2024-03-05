@@ -36,7 +36,7 @@
 <br/>
 
 ### USB Camera
-This section will need to  ["ultralytics"](https://github.com/ultralytics/ultralytics) \n
+This section will need to  ["ultralytics"](https://github.com/ultralytics/ultralytics) <br/>
 Pip or Git clone in your workspace
 
 ``roslaunch usb_cam usb_cam-test.launch``
