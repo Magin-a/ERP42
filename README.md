@@ -46,8 +46,10 @@ git clone https://github.com/ultralytics/ultralytics.git
 ```
 <br/>
 
-### 1) CalledRaw_image 
+### 1) Called Raw_image 
 
+<br/>
+Raw_image is used for Lane Detection and ObjectDetection
 <br/> 
 
 ``roslaunch usb_cam usb_cam-test.launch`` 
