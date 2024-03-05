@@ -38,6 +38,12 @@
 ### USB Camera
 This section will need to  ["ultralytics"](https://github.com/ultralytics/ultralytics) <br/>
 Pip or Git clone in your workspace
+```bash
+pip3 install ultralytics
+```
+```bash
+git clone https://github.com/ultralytics/ultralytics.git
+```
 
 ``roslaunch usb_cam usb_cam-test.launch``
 
